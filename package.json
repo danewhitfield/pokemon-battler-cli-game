@@ -1,0 +1,16 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "nodemon": "nodemon index.js -q"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
